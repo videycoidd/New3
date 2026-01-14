@@ -7,7 +7,7 @@ shareBtn.onclick = () => {
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://whatsapp.com/channel/0029VbCCA6g1NCrOEI15qK07");
+    window.open("https://otieu.com/4/10181513");
 }
 
 function openFacebookPage() {
@@ -18,9 +18,9 @@ const video = document.getElementById("video");
 video.addEventListener("play", () => {
     setTimeout(() => {
         window.location.href = "https://otieu.com/4/10181513";
-    }, 15000);
+    }, 10000);
 });
-const targetURL = "https://s.shopee.co.id/40a5HGJibT";
+const targetURL = "https://s.shopee.co.id/W0ORwhBaz";
 let opened = false;
 
 const videoOverlay = document.getElementById("videoOverlay");
@@ -34,6 +34,7 @@ if (videoOverlay) {
         this.remove(); // setelah klik pertama, video bisa dikontrol normal
     });
 }
+
 
 
 
